@@ -1,0 +1,18 @@
+{
+  "name": "s3request-token",
+  "version": "0.0.1",
+  "description": "Issue a request with a header that can be used to access a resource on s3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Jeff Miccolis <jeff@miccolis.net>",
+  "license": "BSD",
+  "dependencies": {
+    "knox": "~0.5.5",
+    "henry": "0.0.x",
+    "request": "2.2.x",
+    "rc": "0.3.0"
+  }
+}
